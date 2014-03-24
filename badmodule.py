@@ -9,5 +9,5 @@ if not check_file():
 
 class MyModule(object):
 
-    def banaan(self):
+    def my_method(self):
         return 1

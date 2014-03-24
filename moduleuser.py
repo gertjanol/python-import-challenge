@@ -1,5 +1,5 @@
 from badmodule import MyModule
 
 
-def doe_iets_slims():
-    return MyModule.banaan()
+def do_something():
+    return MyModule().my_method()
